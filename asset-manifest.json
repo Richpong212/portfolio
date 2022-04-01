@@ -1,9 +1,15 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.8ad5bfd1.css",
-    "main.js": "/portfolio/static/js/main.e0d79373.js",
+    "main.css": "/portfolio/static/css/main.18779611.css",
+    "main.js": "/portfolio/static/js/main.9a11d6bf.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/original.png": "/portfolio/static/media/original.e1354012e709373b8a5e.png",
+    "static/media/shoprite.png": "/portfolio/static/media/shoprite.05802267f1b541df605e.png",
+    "static/media/shaxi.png": "/portfolio/static/media/shaxi.fe4d3683b5421db346dd.png",
+    "static/media/tonaton.png": "/portfolio/static/media/tonaton.c898eeaa70a8f47982f9.png",
+    "static/media/recipe.png": "/portfolio/static/media/recipe.e0e7ecc228d0752f03c3.png",
     "static/media/setup.jpg": "/portfolio/static/media/setup.8e8da77822447055af5b.jpg",
+    "static/media/RestaurantApp.png": "/portfolio/static/media/RestaurantApp.0cbef53f3b39b294deae.png",
     "static/media/me.jpg": "/portfolio/static/media/me.edb5a6ca0012247c4f67.jpg",
     "static/media/address.png": "/portfolio/static/media/address.6c005f56394c56317a71.png",
     "static/media/email.png": "/portfolio/static/media/email.a0bd887ea5a2be884a6e.png",
@@ -13,12 +19,12 @@
     "static/media/Youtube.png": "/portfolio/static/media/Youtube.c61387acce992aaea86e.png",
     "index.html": "/portfolio/index.html",
     "static/media/git.svg": "/portfolio/static/media/git.255db585f8a0eb28a1e4deb91bde207d.svg",
-    "main.8ad5bfd1.css.map": "/portfolio/static/css/main.8ad5bfd1.css.map",
-    "main.e0d79373.js.map": "/portfolio/static/js/main.e0d79373.js.map",
+    "main.18779611.css.map": "/portfolio/static/css/main.18779611.css.map",
+    "main.9a11d6bf.js.map": "/portfolio/static/js/main.9a11d6bf.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ad5bfd1.css",
-    "static/js/main.e0d79373.js"
+    "static/css/main.18779611.css",
+    "static/js/main.9a11d6bf.js"
   ]
 }
